@@ -1,0 +1,31 @@
+/* library css */
+
+.center-bg {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding:0 2%;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+.clear {
+    clear:both;
+}
+
+.btn-menu {
+    background-color: var(--color-four);
+    display: inline-block;
+    font-size: 16px;
+    padding: 10px 30px;
+    color: var(--color-first);
+    border-radius: 6px;
+    transition: .5s ease-in;
+}
+
+.btn-menu:hover {
+    color: var(--color-first);
+    background-color: var(--color-third);
+}
+
+/***/

@@ -1,0 +1,19 @@
+/* color css */
+:root {
+    --font-poppins:Poppins;
+    --color-first:white;
+    --color-second:#16507b;
+    --color-third:#124265;
+    --color-four:#007bff;
+    --color-five: rgb(228, 227, 227);
+    --color-text:#444444;
+    --color-six:#eef0f3;
+    --color-seven:#f3f9fd;
+    --color-quote:#c9e3f5;
+    --color-span:#949494;
+    --color-black:#000;
+    --color-opacity:rgba(255, 255, 255, 0.603);
+    --color-footer:#1892e921;
+    
+}
+/***/
