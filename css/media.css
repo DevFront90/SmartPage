@@ -249,11 +249,7 @@
 }
 
 @media screen and (max-width:580px) {
-    footer.end-bottom {
-        padding: 150px 0;
-        background-color: var(--color-footer);
-        border-top: 2px solid var(--color-footer);
-    }
+  
 
     .title-cta h2 {
          font-size: 30px;
